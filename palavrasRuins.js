@@ -1,25 +1,25 @@
 export const PALAVRAS_RUINS = new Set([
   "cadente",
-  "cruzar"
-"chama"
-"corpo"
-"acender"
-"pedido"
-"sonho"
-"lá"
-"estremecer"
-"rodando'
-  "explosão"
-"nínguem"
-"não"
-"vem'
-  "esperei'
-  "porque"
-"testemunhas"
-"batidas"
-"carrosel"
-"uoh"
-"parara"
-"oh"
-"se"
+  "cruzar",
+"chama",
+"corpo",
+"acender",
+"pedido",
+"sonho",
+"lá",
+"estremecer",
+"rodando",
+  "explosão",
+"nínguem",
+"não",
+"vem",
+  "esperei",
+  "porque",
+"testemunhas",
+"batidas",
+"carrosel",
+"uoh",
+"parara",
+"oh",
+"se",
 ]);
